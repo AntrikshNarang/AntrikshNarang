@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antriksh Narang</h1>
-<h3 align="center">A Tech Enthusiast💻 Lover of Novelty 🤸🏻</h3>
+<h3 align="center">A Tech Enthusiast💻 Novelty Lover 🤸🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antrikshnarang&label=Profile%20Visits&color=f4b924&style=flat" alt="antrikshnarang" /> </p>
 
-- 🌱 I’m currently learning **Front-End WebDevelopment**
+- 🌱 I’m currently learning **Full Stack Web Dev**
 
 - 👨‍💻 Connect With Me [linktr.ee/antrikshnarang](linktr.ee/antrikshnarang)
 
-- 💬 Talks About **FrontEnd, C++ and Marvel Movies**
+- 💬 Talks About **Web Dev, C++ and Marvel Movies**
 
 - 📫 How to reach me **itsantriksh@gmail.com**
 
