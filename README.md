@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Dev**
 
-- 👨‍💻 Connect With Me [linktr.ee/antrikshnarang](linktr.ee/antrikshnarang)
+- 👨‍💻 Connect With Me [linktr.ee/antrikshnarang](https://linktr.ee/antrikshnarang)
 
 - 💬 Talks About **Web Dev, C++ and Marvel Movies**
 
