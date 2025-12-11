@@ -1,30 +1,113 @@
 <h1 align="center">Hi 👋, I'm Antriksh Narang</h1>
-<h3 align="center">A Tech Enthusiast💻 Novelty Lover 🤸🏻</h3>
+<h3 align="center">GenAI • AIML • Full-Stack Engineer | Building Scalable Systems & Intelligent Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antrikshnarang&label=Profile%20Visits&color=f4b924&style=flat" alt="antrikshnarang" /> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Dev**
-
-- 👨‍💻 Connect With Me [linktr.ee/antrikshnarang](https://linktr.ee/antrikshnarang)
-
-- 💬 Talks About **Web Dev, C++ and Marvel Movies**
-
-- 📫 How to reach me **itsantriksh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/antrikshnarang1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antrikshnarang1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antrikshnarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antrikshnarang" height="30" width="40" /></a>
-<a href="https://fb.com/antrikshnarang1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antrikshnarang1" height="30" width="40" /></a>
-<a href="https://instagram.com/antrikshnarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antrikshnarang" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AntrikshNarang&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antrikshnarang&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="antrikshnarang" /></p>
+## 🚀 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antrikshnarang&show_icons=true&theme=synthwave&locale=en" alt="antrikshnarang" /></p>
+I build **scalable backend systems**, **full-stack applications**, and **AI-powered solutions** using modern tooling across **GenAI, LLM orchestration, machine learning pipelines, and distributed backend systems**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antrikshnarang&" alt="antrikshnarang" /></p>
+My work spans:
+
+- ⚙️ **Engineering production-grade backends** — Java/Spring Boot, Node.js, Express, service design, versioning, API architecture  
+- 🤖 **Applied GenAI & ML** — RAG pipelines, embeddings, vector search, MMR re-ranking, YOLO training & inference  
+- ☁️ **Cloud & DevOps** — AWS, Docker, Kubernetes, Helm, Prometheus Operator, logs & observability  
+- 📊 **Data workflows** — metrics dashboards, distributed log parsing, Grafana pipelines  
+- 🧠 **System design** — scalability, clean architecture, maintainability, performance-driven design  
+
+My focus:  
+**High-quality engineering, scalability, clarity in architecture, and solving real product problems with AI + software.**
+
+---
+
+## 🛠️ Core Skill Set
+
+### 🔹 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" height="45" />
+</p>
+
+### 🔹 **Backend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask" height="45" />
+</p>
+
+### 🔹 **Frontend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="45" />
+</p>
+
+### 🔹 **AI / Machine Learning / GenAI**
+<p>
+  <img src="https://cdn.simpleicons.org/huggingface" height="40" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" />
+  <img src="https://cdn.simpleicons.org/ollama" height="40" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blueviolet?style=for-the-badge" height="28" />
+</p>
+
+### 🔹 **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="45" />
+</p>
+
+### 🔹 **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,helm" height="45" />
+</p>
+
+### 🔹 **Tooling & Observability**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,grafana,prometheus,bash" height="45" />
+</p>
+
+---
+
+## 🧩 Engineering Focus (In One Glance)
+
+- **Backend-first engineering** — correctness, reliability, scalability  
+- **AI systems engineering** — embeddings, vector search, retrieval evaluation  
+- **Full SDLC ownership** — design → implementation → deployment → monitoring  
+- **Deep debugging skills** — distributed logs, containers, networks, infra issues  
+- **Product-oriented execution** — build fast, maintain quality, ensure impact  
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://github.com/AntrikshNarang"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://linkedin.com/in/AntrikshNarang"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://twitter.com/AntrikshNarang1"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://leetcode.com/AntrikshNarang1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" /></a>
+</p>
+
+---
+
+<!--  
+  Analytics section commented until self-hosted deployments are ready
+  Uncomment after your Vercel deploys are stable
+-->
+
+## 📅 Contribution Activity Across Accounts  
+
+### Personal GitHub Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/AntrikshNarang" alt="Personal Contribution Graph" />
+</p>
+
+### Work GitHub Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/Antriksh-Narang" alt="Work Contribution Graph" />
+</p>
+
+---
+
+## 🧠 Fun Fact  
+I love designing **clean systems**, understanding **why software works the way it does**, and applying **AI to real engineering challenges**.
+
+---
 
